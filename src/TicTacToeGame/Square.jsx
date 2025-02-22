@@ -15,7 +15,7 @@ const Square=(props)=>{
 
         }}
         className='square'>
-            <h5>{props.values}</h5>
+            <h5>{props.value}</h5>
         </div>
     );
 };
